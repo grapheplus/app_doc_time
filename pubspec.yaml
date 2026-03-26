@@ -1,0 +1,38 @@
+name: doc_time
+description: DOC TIME - Application de prise de rendez-vous médicaux en ligne
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^8.0.2
+  flutter_rating_bar: ^4.0.1
+  intl: ^0.20.2
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  table_calendar: ^3.0.9
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  lottie: ^3.3.2
+  badges: ^3.1.2
+  flutter_staggered_animations: ^1.1.1
+  smooth_page_indicator: ^2.0.1
+  dotted_border: ^3.1.0
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^11.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
