@@ -16,3 +16,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # app_doc_time
+## 📱 Démo de mon application Flutter
+
+Cliquez sur l'image ci-dessous pour voir la vidéo de démonstration 👇
+
+[![Demo App: Flutter application interface showing user profile with statistics, metrics displayed in cards, and blue action button](https://img.youtube.com/vi/M3WHlLNKoCI/0.jpg)](https://youtu.be/M3WHlLNKoCI)
